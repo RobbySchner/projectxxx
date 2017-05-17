@@ -1,0 +1,35 @@
+
+
+Started GET "/" for 109.90.109.202 at 2017-05-17 18:57:58 +0000
+Cannot render console from 109.90.109.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 20ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 109.90.109.202 at 2017-05-17 19:02:14 +0000
+Cannot render console from 109.90.109.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 19ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 52.90.146.42 at 2017-05-17 19:02:42 +0000
+Cannot render console from 52.90.146.42! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as */*
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.7ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 109.90.109.202 at 2017-05-17 19:03:33 +0000
+Cannot render console from 109.90.109.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 109.90.109.202 at 2017-05-17 19:06:59 +0000
+Cannot render console from 109.90.109.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
